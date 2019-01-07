@@ -222,6 +222,7 @@ $(document).ready(function() {
   //     var showQuestions= document.createElement(("p"));
   //     showQuestions.textContent = mathQuestions[i];
   //     mathQuestions.append(showQuestions);
+  //
   // }
   
   /////////////////2///////////////////
