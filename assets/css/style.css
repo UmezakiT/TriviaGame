@@ -1,3 +1,44 @@
-.bold{
-  font-weight: bold;
+/* 
+
+#heading {
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 20px;
 }
+ */
+
+/* #content{
+	text-align: center;
+} */
+
+
+/* #responses{
+	text-align: center;
+} */
+#responses label{
+	margin-right: 70px;
+}
+/* #responses input{
+	float: left;
+	position: relative;
+	margin-right: 10px;
+	margin-top: 7px;
+
+} */
+
+/* #responses .twd-opt{
+	font-size: 20px;
+	float: left;
+	position: relative;
+} */
+/* .questionX{
+	text-align: center;
+	font-size: 25px;
+	margin-bottom: 40px;
+} */
+/* #submit-div{
+	text-align: center;
+} */
+/* #submit-div button{
+	font-size: 18px;
+} */
